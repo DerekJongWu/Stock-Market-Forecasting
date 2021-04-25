@@ -1,0 +1,5 @@
+name: stock
+dependencies: 
+	-python=3.6
+	-jupyter
+	
