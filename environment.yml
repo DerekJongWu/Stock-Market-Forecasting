@@ -1,5 +1,10 @@
 name: stock
+channels: 
+  - conda-forge
+  - anaconda
 dependencies: 
-	-python=3.6
-	-jupyter
-	
+	- python=3.6
+	- jupyter
+  - pandas 
+  - numpy
+  
